@@ -3,5 +3,5 @@ Click on the Fourier_decomposition_of_stock_prices.ipynb file, then on the butto
 
 ## TRES IMPORTANT !
 Une décomposition en séries de Fourier se faitr sur une fonction périodique. On fait l'hypothèse que les cours sont périodiques.
-VOus pouvez aussi détrender (retirer la moyenne mobile à 100 jorus par exemple).
+Vous pouvez (devez) aussi les détrender en retirer, par exemple, la moyenne mobile à 100 jours.
 Si vous préparez le GO, il est super important de préciser cela !
